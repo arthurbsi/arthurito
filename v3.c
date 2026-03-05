@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("mateus liiiindo ");
+    printf("pedro feio gostoso ");
     return 0;
 }
